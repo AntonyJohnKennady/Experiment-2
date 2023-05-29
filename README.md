@@ -72,8 +72,7 @@ CIRCUIT DIAGRAM
 
 
 
-![Ex2 (2)](https://github.com/AntonyJohnKennady/Experiment-2/assets/127506261/48ad9e9a-9421-4abc-8b59-dd250b9e507c)
-
+![2 4](https://github.com/ArunJ03/Experiment-2/assets/131673036/a340c6d6-c253-471c-af8e-1784d9e49766)
 
 
 
@@ -84,14 +83,13 @@ CIRCUIT DIAGRAM
 **Simulation output:** 
 
 Before Simulation:
-
+![2 1](https://github.com/ArunJ03/Experiment-2/assets/131673036/1e654a53-53b5-48d7-a148-14534fbaa28d)
 After Simulation:
-
+![2 2](https://github.com/ArunJ03/Experiment-2/assets/131673036/3703d1b2-32b4-41f0-a94c-3faab79159c7)
 
 Serial Monitor:
 
-
-![Uploading serial ex2.png…]()
+![2 3](https://github.com/ArunJ03/Experiment-2/assets/131673036/687f010d-0a95-446d-a1dc-6c4b26cfd646)
 
 
 
